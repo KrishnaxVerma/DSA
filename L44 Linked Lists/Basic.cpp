@@ -1,0 +1,4 @@
+/*
+Linked lists is a type of data structure which is made of collection of nodes
+
+*/
